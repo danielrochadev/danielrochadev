@@ -1,4 +1,4 @@
-## Oi, eu sou o Daniel Rocha, Front-end Developer e Product Designer!
+## Oi eu sou o Daniel Rocha, Front-end Developer e Product Designer!
 <div align="center">
   <a href="https://github.com/danielrochadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielrochadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
