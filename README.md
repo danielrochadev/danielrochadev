@@ -5,7 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrochadev&layout=compact&langs_count=7&theme=dark"/>
 
     [![Daniel Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielrochadev&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@danielrochadev)
-  </a>
 </div>
 
 <div style="display: inline_block"><br>
