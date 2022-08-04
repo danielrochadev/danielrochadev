@@ -1,7 +1,8 @@
 ## Oi eu sou o Daniel Rocha, Front-end Developer e Product Designer!
 <div align="center">
-  [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielrochadev&include_all_commits=true&theme=dark&include_all_commits&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/danielrochadev)
-[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielrochadev&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&time_range=last_year)](https://wakatime.com/@danielrochadev)
+  <a href="https://github.com/danielrochadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielrochadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrochadev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
