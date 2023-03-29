@@ -1,4 +1,4 @@
-## Oi eu sou o Daniel Rocha, Front-end Developer
+## Olá! Eu sou o Daniel Rocha 😎
 <div>
   <a href="https://github.com/danielrochadev">
     <img height="158" src="https://github-readme-stats.vercel.app/api?username=danielrochadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
